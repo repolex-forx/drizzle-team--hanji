@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/drizzle-team/hanji/commit/96430391482a6340d8ab7facdadb38c8bc43feb4",
       "git:hexsha": "96430391482a6340d8ab7facdadb38c8bc43feb4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
