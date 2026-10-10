@@ -1,0 +1,11 @@
+{
+  "org": "drizzle-team",
+  "repo": "hanji",
+  "versions": [
+    {
+      "commit": "96430391482a6340d8ab7facdadb38c8bc43feb4",
+      "tag": "",
+      "parsed_at": "2026-10-10T07:36:38.782509+00:00"
+    }
+  ]
+}
