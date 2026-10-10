@@ -1,0 +1,33 @@
+{
+  "manifest_version": "1.0",
+  "org": "drizzle-team",
+  "repo": "hanji",
+  "versions": [
+    {
+      "commit": "96430391482a6340d8ab7facdadb38c8bc43feb4",
+      "parsed_at": "2026-10-10T07:34:04.380214+00:00",
+      "filetree": "filetree/96430391482a6340d8ab7facdadb38c8bc43feb4.nq.gz",
+      "blobs": [
+        "blob/2dc0c05b53984fc670472db3707b7e9f5524a1f5.nq.gz",
+        "blob/d802d5a2e2184ce6997378f309ba5b43df9fe68f.nq.gz",
+        "blob/fb15d37137cf4d5e9b7979755f86c36138fa45fe.nq.gz",
+        "blob/bc0f1245903adb083e6d4169ed61fb6e145d3502.nq.gz",
+        "blob/ef91ff132fccbd99c790fde1c2433a684555b5ac.nq.gz",
+        "blob/0e6969595249e4c549dd1db2abf5da07b7f8b83d.nq.gz",
+        "blob/8b5840acac7af00022dc5e1797e1ee64c69c745d.nq.gz",
+        "blob/c5e7c725515ee4e61b38f2e149133b440057810c.nq.gz",
+        "blob/117b4ef1c8cead6faed9e55034454d79169eb63b.nq.gz",
+        "blob/9132dd42dda9377eeac82bb84a24e8a188fd797b.nq.gz",
+        "blob/0db7e9f7960464fca1e885ba8d08c44b1c1f9d8c.nq.gz",
+        "blob/206c5f7d984ce86d9fff326600fe3016a49f1360.nq.gz",
+        "blob/211d2ae0a3c85bd501bd36413543ad0db69625f2.nq.gz",
+        "blob/5e578ca6e1aa817d8af9640f3796c890d7375378.nq.gz",
+        "blob/45dab348778dca42431235173dc974fd8e254d93.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
